@@ -69,7 +69,7 @@ ${data.test}
 ${renderLicenseLink(data.license)}
 ${renderLicenseSection(data.license)}
 ## Questions: {#question-header}
-Please reach out at either of the following locations if you have any additional questions:
+Feel free to contact me at either of the two sources below for any questions, concerns, or collaborations. 
 * Email: ${data.email}
 * GitHub: [${data.user}](https://github.com/${data.user})
 `;
