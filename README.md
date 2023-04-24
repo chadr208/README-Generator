@@ -20,6 +20,9 @@ This is a homework assignment is created with the intent to quickly generate an 
 *Run node index
 *Follow screen prompts 
 *ReadME is now generated
+
+Click on the link below to view the screen recording of the generator in use. 
+https://drive.google.com/file/d/1wcqZtnF2JOj9gdLpitRuZPSPukTCGwGU/view
 ## Contributing: {#contribution-header}
 
 ## Tests: {#testing-header}
