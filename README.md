@@ -1,4 +1,4 @@
-# README Generator
+# README.MD Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 * [Description](#description-header)
@@ -9,13 +9,19 @@
 * [License](#license-header)
 * [Questions](#question-header)
 ## Description: {#description-header}
-A professional README.MD generator
+This is a homework assignment is created with the intent to quickly generate an entire README.MD file for use at any time. 
 ## Installation: {#installation-header}
-Clone code. Open up index.js in intergrated terminal. Follow the prompts to enter the required fields. 
-## Usage: {#usage-header}
 
+## Usage: {#usage-header}
+*Open the file in Vs code
+*Open the index.js file
+*Open the intergrated terminal
+*Run npm i
+*Run node index
+*Follow screen prompts 
+*ReadME is now generated
 ## Contributing: {#contribution-header}
-Please create a new branch of the repo and submit your changes for review. 
+
 ## Tests: {#testing-header}
 
 ## License: {#license-header}
@@ -30,6 +36,6 @@ Copyright <YEAR> <COPYRIGHT HOLDER>
       
       
 ## Questions: {#question-header}
-Please reach out at either of the following locations if you have any additional questions:
+Feel free to contact me at either of the two sources below for any questions, concerns, or collaborations. 
 * Email: Chadr208@gmail.com
 * GitHub: [Chadr208](https://github.com/Chadr208)
