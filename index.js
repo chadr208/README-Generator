@@ -7,12 +7,12 @@ const markdownMaker = require('./utils/generateMarkdown');
 const questions = [
     {
         type: 'input',
-        message: 'What is the title of your repository?',
+        message: 'Enter the title of your repository.',
         name: 'title',
     },
     {
         type: 'input',
-        message: 'Please enter a description of your repository',
+        message: 'Enter a description of your repository',
         name: 'description',
     },
     {
@@ -22,33 +22,33 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Please enter the usage instructions for your repository',
+        message: 'Enter the usage instructions for your repository',
         name: 'usage',
     },
     {
         type: 'input',
-        message: 'Please enter the contribution guidelines for your repository',
+        message: 'Enter the contribution guidelines for your repository',
         name: 'contribution',
     },
     {
         type: 'input',
-        message: 'Please enter the test instructions for your repository',
+        message: 'Enter the test instructions for your repository',
         name: 'test',
     },
     {
         type: 'list',
-        message: 'Please select the license type for your repository',
-        choices: ['MIT', 'Mozilla 2.0', 'WTFPL'],
+        message: 'Select the license type for your repository',
+        choices: ['MIT', 'Mozilla 2.0',],
         name: 'license',
     },
     {
         type: 'input',
-        message: 'Please enter your GitHub username',
+        message: 'Enter your GitHub username',
         name: 'user',
     },
     {
         type: 'input',
-        message: 'Please enter your email address',
+        message: 'Enter your email address',
         name: 'email',
     }
 ];
